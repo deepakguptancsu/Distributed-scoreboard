@@ -14,4 +14,5 @@ player serverIpAddress:port playerName
             OR          
 
 player serverIpAddress:port playerName count delay score
+
 watcher serverIpAddress:port listSize
